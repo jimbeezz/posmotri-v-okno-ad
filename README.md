@@ -1,1 +1,1 @@
-готовый проект, немного исправлен html, полностью написал css
+https://github.com/jimbeezz/posmotri-v-okno-ad
